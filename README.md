@@ -22,7 +22,7 @@ MovieAI is a Flutter-based mobile application powered by Machine Learning, capab
 
 | Splash Screen | Recommendation UI | Movie Details | History Tab |
 |---------------|-------------------|---------------|-------------|
-| ![splash](screenshots/splash.png) | ![home](screenshots/home.png) | ![details](screenshots/details.png) | ![history](screenshots/history.png) |
+| ![splash](screenshots/splash.jpg) | ![home](screenshots/home.jpg) | ![details](screenshots/details.jpg) | ![history](screenshots/history.jpg) |
 
 > Add screenshots to a `screenshots/` folder to render them here.
 
