@@ -24,7 +24,6 @@ MovieAI is a Flutter-based mobile application powered by Machine Learning, capab
 |---------------|-------------------|---------------|-------------|
 | ![splash](screenshots/splash.jpg) | ![home](screenshots/home.jpg) | ![details](screenshots/details.jpg) | ![history](screenshots/history.jpg) |
 
-
 ---
 
 ## 🧠 Tech Stack
@@ -49,20 +48,19 @@ git clone https://github.com/yourusername/moviesai.git
 cd moviesai
 flutter pub get
 flutter run
+
 🌐 API Endpoint (Backend)
 http
 Copy
 Edit
 POST https://movies-ai-api.onrender.com/recommend
 
+Request Body:
 {
   "movie": "Avatar"
 }
-
-📱 APK Download  
-⬇ [Download APK](https://drive.google.com/file/d/1P6SrxaiVtjnDxCo8996kmGuxwg3rkqig/view?usp=sharing)
-
-
+📱 APK Download
+⬇ Download APK
 
 💡 Future Enhancements
 🔖 Bookmark/Favorite movies
