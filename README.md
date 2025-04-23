@@ -24,7 +24,6 @@ MovieAI is a Flutter-based mobile application powered by Machine Learning, capab
 |---------------|-------------------|---------------|-------------|
 | ![splash](screenshots/splash.jpg) | ![home](screenshots/home.jpg) | ![details](screenshots/details.jpg) | ![history](screenshots/history.jpg) |
 
-> Add screenshots to a `screenshots/` folder to render them here.
 
 ---
 
