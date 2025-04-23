@@ -62,7 +62,7 @@ POST https://movies-ai-api.onrender.com/recommend
 
 📱 APK Download
 ⬇ Download APK
-(Upload your built APK to Google Drive or GitHub Releases and paste the link)
+(https://drive.google.com/file/d/1P6SrxaiVtjnDxCo8996kmGuxwg3rkqig/view?usp=sharing)
 
 💡 Future Enhancements
 🔖 Bookmark/Favorite movies
