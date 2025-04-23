@@ -61,7 +61,8 @@ Request Body:
 }
 
 📱 APK Download  
-⬇ [Download APK](https://drive.google.com/file/d/1P6SrxaiVtjnDxCo8996kmGuxwg3rkqig/view?usp=drive_link)
+⬇ [Download APK](https://drive.google.com/file/d/1P6SrxaiVtjnDxCo8996kmGuxwg3rkqig/view?usp=sharing)
+
 
 
 💡 Future Enhancements
